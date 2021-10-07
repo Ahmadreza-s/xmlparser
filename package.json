@@ -11,5 +11,10 @@
     "xml2js"
   ],
   "author": "Ahmadreza Salehvand",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ahmadreza-s/xmlparser"
+  },
+  "homepage": "https://github.com/Ahmadreza-s/xmlparser#readme"
 }
